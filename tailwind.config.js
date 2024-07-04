@@ -4,60 +4,13 @@ module.exports = {
     './pages/**/*.{js,ts,jsx,tsx}',
     './components/**/*.{js,ts,jsx,tsx}',
     './app/**/*.{js,ts,jsx,tsx}',
-    "./node_modules/flowbite/**/*.js",
   ],
   theme: {
-    extend: {
-      typography: (theme) => ({
-        DEFAULT: {
-          css: {
-            // Code blocks
-            'pre code': {
-              backgroundColor: 'transparent',
-              color: theme('colors.gray.200'),
-              padding: theme('spacing.2'),
-              borderRadius: theme('borderRadius.md'),
-              overflowX: 'auto',
-            },
-            // Headings
-            'h1, h2, h3, h4, h5, h6': {
-              fontWeight: theme('fontWeight.bold'),
-              marginTop: theme('spacing.8'),
-              marginBottom: theme('spacing.4'),
-              letterSpacing: theme('letterSpacing.tight'),
-            },
-            // Paragraphs
-            p: {
-              marginTop: theme('spacing.4'),
-              marginBottom: theme('spacing.4'),
-              lineHeight: theme('lineHeight.relaxed'),
-            },
-            // Lists
-            ul: {
-              listStyleType: 'disc',
-              marginLeft: theme('spacing.6'),
-            },
-            ol: {
-              listStyleType: 'decimal',
-              marginLeft: theme('spacing.6'),
-            },
-            // Links
-            a: {
-              color: theme('colors.blue.500'),
-              textDecoration: 'underline',
-              '&:hover': {
-                color: theme('colors.blue.700'),
-              },
-            },
-          },
-        },
-      }),
-    },
+    extend: {},
   },
   plugins: [
     require('flowbite/plugin'),
     require("daisyui"),
-    require('@tailwindcss/typography'),
   ],
 
    // daisyUI config (optional - here are the default values)
