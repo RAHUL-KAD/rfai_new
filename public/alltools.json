@@ -1,0 +1,272 @@
+[
+    {
+        "title": "URL shortening",
+        "desc": "Free URL shortening.",
+        "url": "/short-url",
+        "button": "Coming soon"
+    },
+    {
+        "title": "QR code generator",
+        "desc": "Generate free QR codes for links, or text messages.",
+        "url": "/qr-code",
+        "button": "Coming soon"
+    },
+    {
+        "title": "Royalty free background music",
+        "desc": "Download and use royalty free background music.",
+        "url": "/background-music",
+        "button": "Coming soon"
+    },
+    {
+        "title": "Text to speech",
+        "desc": "Free text to speech generator for 55+ languages.",
+        "url": "/text-to-speech",
+        "button": "Text to Speech"
+    },
+    {
+        "title": "Free SEO tools",
+        "desc": "Use our SEO tools to optimize your websites performance.",
+        "url": "/seo-tools",
+        "button": "Try it"
+    },
+    {
+        "title": "Free SEO Audit",
+        "desc": "Use our free SEO Audit tool to analyze your websites performance.",
+        "url": "/seo-tools/free-seo-audit",
+        "button": "Try it"
+    },
+    {
+        "title": "Base64 Encoders",
+        "desc": "Convert any file type into base64 format.",
+        "url": "/base64/encoder",
+        "button": "convert"
+    },
+    {
+        "title": "Base64 Decoders",
+        "desc": "Decode base64 into it's original format.",
+        "url": "/base64/decoder",
+        "button": "convert"
+    },
+    {
+        "title": "Image resizer for Social Media",
+        "desc": "Resize any image into a instagram post image",
+        "url": "/image-resizer",
+        "button": "Resize Images"
+    },
+    {
+        "title": "URL to Screenshot",
+        "desc": "Capture a screenshots from url.",
+        "url": "/url-to-screenshot",
+        "button": "Coming soon"
+    },
+    {
+        "title": "Email Validation and verification",
+        "desc": "Validate that email addresses are correct.",
+        "url": "/email-validation",
+        "button": "Coming soon"
+    },
+    {
+        "title": "Barcode Generator",
+        "desc": "Generate unique barcodes to track and organize your product.",
+        "url": "/barcode-generator",
+        "button": "Coming soon"
+    },
+    {
+        "title": "WHOIS domain lookup",
+        "desc": "Lookup registration data for any domain name.",
+        "url": "/random/domain-lookup",
+        "button": "Domain lookup"
+    },
+    {
+        "title": "Random color generation",
+        "desc": "Generate random colors.",
+        "url": "/colors/random-color",
+        "button": "Generate colors"
+    },
+    {
+        "title": "Free Online Editors",
+        "desc": "Free online editors for SVG, JSON, XML, YAML, HTML",
+        "url": "/online-editors",
+        "button": "Online Editors"
+    },
+    {
+        "title": "Image to Colors",
+        "desc": "Extract all the colors from images.",
+        "url": "/colors/image-colors",
+        "button": "Extract Colors"
+    },
+    {
+        "title": "Device info",
+        "desc": "Extract all the info about your device.",
+        "url": "/random/device-info",
+        "button": "Get device info"
+    },
+    {
+        "title": "Extract Youtube Thumbnails",
+        "desc": "Download and view thumbnails of any youtube video in all avalible resolutions and qualities.",
+        "url": "/youtube/thumbnail-downloader",
+        "button": "Extract"
+    },
+    {
+        "title": "CSS to Tailwind Converter",
+        "desc": "Effortlessly convert your CSS styles to Tailwind CSS classes for efficient and streamlined web development.",
+        "url": "/css-tailwindcss",
+        "button": "Coming soon"
+    },
+    {
+        "title": "Markdown Editor",
+        "desc": "A simple markdown editor with preview.",
+        "url": "/markdown-editor",
+        "button": "Coming soon"
+    },
+    {
+        "title": "Remove audio from any video",
+        "desc": "Mute any video with ease. Removing audio from a video is important if there is poor sound quality, needless dialogue, or unpleasant sounds.",
+        "url": "/remove-audio-from-video",
+        "button": "Coming soon"
+    },
+    {
+        "title": "SVG to PNG",
+        "desc": "Convert SVG to PNG",
+        "url": "/svg-png",
+        "button": "Coming soon"
+    },
+    {
+        "title": "Online PDF viewer",
+        "desc": "View PDF's online.",
+        "url": "/random/pdf-viewer",
+        "button": "View PDF"
+    },
+    {
+        "title": "Draw.io Embedded UI",
+        "desc": "Draw.io embedded UI",
+        "url": "/drawio",
+        "button": "Coming soon"
+    },
+    {
+        "title": "Free online Data converters",
+        "desc": "Free online data converter to convert data from json to yaml, xml and yaml to json, xml and to many other types.",
+        "url": "/data-converters",
+        "button": "Try data converter"
+    },
+    {
+        "title": "String Tools",
+        "desc": "String tools contains free online numbers extractor from a string and word error rate calculator.",
+        "url": "/string",
+        "button": "Explore tools"
+    },
+    {
+        "title": "Lorem Ipsum Generator",
+        "desc": "This generates Lorem Ipsum text, you can choose how many paragraph or sentences you want to generate.",
+        "url": "/random/lorem-ipsum-generator",
+        "button": "Generate Lorem"
+    },
+    {
+        "title": "Text tools",
+        "desc": "Use free online text tools like text converter, you can convert your text into any format. Remove duplicates from any .txt file",
+        "url": "/txt-tools",
+        "button": "Use txt tools"
+    },
+    {
+        "title": "My Screen Info",
+        "desc": "Understand your devices screen better, get screen size, Pixel Density, Aspect Ratio, Orientation and many other.",
+        "url": "/random/my-screen-info",
+        "button": "Get info"
+    },
+    {
+        "title": "Combine Two or More TXT files",
+        "desc": "You can combine two or more .txt files with each other and also remove duplicates from final .txt  file.",
+        "url": "/combine-txt-files",
+        "button": "Coming soon"
+    },
+    {
+        "title": "Free Random IP addresses generator",
+        "desc": "Generate random IPv4, Ipv6, Multicast IPv4 and IPv6 and many more type of addresses and Bulk download them.",
+        "url": "/ip",
+        "button": "Generate"
+    },
+    {
+        "title": "Passowrd Generator",
+        "desc": "Generate random passwords. Set password length, Add or remove numeric or special case values.",
+        "url": "/random/password-generator",
+        "button": "Generate"
+    },
+    {
+        "title": "Audio metadata",
+        "desc": "Extract any type of audio file metadata.",
+        "url": "/matadata-extractor/audio-metadata",
+        "button": "Extract"
+    },
+    {
+        "title": "Image metadata",
+        "desc": "Extract any type of image file metadata.",
+        "url": "/matadata-extractor/image-metadata",
+        "button": "Extract"
+    },
+    {
+        "title": "What is my file size",
+        "desc": "Check the file size for any type of file.",
+        "url": "/random/what-is-my-file-size",
+        "button": "Extract"
+    },
+    {
+        "title": "Convert Numbers to Text",
+        "desc": "Convert numbers text for 50+ languages.",
+        "url": "/numbers-to-text",
+        "button": "Convert"
+    },
+    {
+        "title": "Play YouTube video on repeat",
+        "desc": "Play YouTube video on repeat.",
+        "url": "/youtube/play-video-on-repeat",
+        "button": "Play"
+    },
+    {
+        "title": "Google Adsense Calculator",
+        "desc": "Calculate estimated monthly revenue from Google Adsense ads.",
+        "url": "/calculators/google-adsense-calculator",
+        "button": "Calculate"
+    },
+    {
+        "title": "Greatest Integer Calculator",
+        "desc": "Calculate Greatest Integer number.",
+        "url": "/calculators/greatest-integer-calculator",
+        "button": "Calculate"
+    },
+    {
+        "title": "Check if robots.txt exists",
+        "desc": "Check if your website is using a robots.txt file.",
+        "url": "/seo-tools/check-robots",
+        "button": "Coming soon"
+    },
+    {
+        "title": "Check if sitemap.xml exists",
+        "desc": "Check if your website is using a sitemap.xml file.",
+        "url": "/seo-tools/check-sitemap",
+        "button": "Coming soon"
+    },
+    {
+        "title": "Rotate Image online",
+        "desc": "Rotate Image online",
+        "url": "/image-tools/rotate-image",
+        "button": "Coming soon"
+    },
+    {
+        "title": "Download Image from URL",
+        "desc": "Download Image from URL",
+        "url": "/image-tools/download-image-from-url",
+        "button": "Coming soon"
+    },
+    {
+        "title": "ZIP Extractor",
+        "desc": "Extract files from ZIP archive in an easy way.",
+        "url": "/utils/zip-extractor",
+        "button": "Extract"
+    },
+    {
+        "title": "Create ZIP Archive",
+        "desc": "ZIP multiple files and folders.",
+        "url": "/utils/create-zip-archive",
+        "button": "Extract"
+    }
+]

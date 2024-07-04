@@ -1,0 +1,23 @@
+{
+    "paths": [
+      "/data/blog/accelerate-vector-search-applications-using-openvino-and-lancedb.mdx",
+      "/data/blog/an-essential-guide-to-pyttsx3.mdx",
+      "benchmarking-new-openai-embedding-models-with-lancedb.mdx",
+      "/data/blog/deconvolution-and-how-it-works-and-its-importance.mdx",
+      "/data/blog/flattening-layer-in-computer-vision.mdx",
+      "/data/blog/how-to-run-mistral-7b-on-m1-mac-with-ollama.mdx",
+      "/data/blog/image-processing-in-computer-vision.mdx",
+      "/data/blog/inverted-file-product-quantization-accelerate-vector-search-by-creating-indices.mdx",
+      "/data/blog/kernels-in-convolutional-neural-network-lets-talk-about-them.mdx",
+      "/data/blog/langroid-multi-agent-programming-framework-for-llms.mdx",
+      "/data/blog/max-pooling-why-use-it-and-its-advantages.mdx",
+      "/data/blog/one-hot-encoding-vs-label-encoding.mdx",
+      "/data/blog/supervised-fine-tuning-for-llms.mdx",
+      "/data/blog/the-softmax-function-and-misconceptions.mdx",
+      "/data/blog/what-is-context-window.mdx",
+      "/data/blog/what-is-speaker-diarization.mdx",
+      "/data/blog/what-is-tinyml-why-tinyml-will-be-soon-everywhere.mdx",
+      "/data/blog/why-is-odd-sized-kernel-preferred-over-even-sized-kernel.mdx",
+      "/data/blog/why-padding-is-important-in-convolutional-neural-network.mdx"
+    ]
+  }
