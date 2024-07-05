@@ -12,7 +12,7 @@ type LandingPageData = {
 
 
 
-const AudioPlayer3 = lazy(() => import("./AudioPlayer4"));
+const AudioPlayer3 = lazy(() => import("./AudioPlayer5"));
 
 // to not limit how many to render when search is not empty
 // https://chat.openai.com/share/cc9b37c3-9516-4739-87e9-424f4e2093db

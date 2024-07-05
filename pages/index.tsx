@@ -4,8 +4,8 @@ import { NextPage } from "next";
 import Head from "next/head";
 // import Link from "next/link";
 import Header from "../components/Header";
-// import { AudioProvider } from '../context/AudioContext';
-// import AudioPlayerFixed from '../components/AudioPlayerFixed';
+import { AudioProvider } from '../context/AudioContext';
+import AudioPlayerFixed from '../components/AudioPlayerFixed';
 
 
 const Music1 = lazy(() => import("../components/Music1"));
@@ -13,7 +13,7 @@ const Music1 = lazy(() => import("../components/Music1"));
 const Home: NextPage = () => {
 
   return (
-    // <AudioProvider>
+    <AudioProvider>
       <div className="mx-auto flex max-w-full flex-col items-center justify-center py-2">
         <Head>
           <title>Rfai | Royalty Free AI Generated Music </title>
@@ -73,10 +73,10 @@ const Home: NextPage = () => {
 
         </main>
         <Music1 />
-        {/* <AudioPlayerFixed /> */}
+        <AudioPlayerFixed />
 
       </div>
-    // </AudioProvider>
+    </AudioProvider>
   );
 };
 
