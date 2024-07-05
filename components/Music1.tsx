@@ -12,7 +12,7 @@ type LandingPageData = {
 
 
 
-const AudioPlayer3 = lazy(() => import("./AudioPlayer5"));
+const AudioPlayer3 = lazy(() => import("./AudioPlayer4"));
 
 // to not limit how many to render when search is not empty
 // https://chat.openai.com/share/cc9b37c3-9516-4739-87e9-424f4e2093db
@@ -90,7 +90,7 @@ export default function Music1() {
         <p>(1000 results found)</p>
       </div>
 
-      <div className="grid w-[100%] p-5 sm:grid-cols-3 sm:gap-10 lg:gap-10 md:gap-5 gap-5">
+      <div className="grid w-[100%] p-5 sm:grid-cols-2 sm:gap-10 lg:gap-10 md:gap-5 gap-5">
         {limitedAudioData.map((audio, index) => (
           <Suspense key={index} fallback={<div>Loading...</div>}>
             {/* <AudioPlayer2 url={audio.url} title={audio.title} genera={audio.genera}/> */}
