@@ -14,13 +14,15 @@ function MyApp({ Component, pageProps }: AppProps) {
 
   return (
     <>
-      <ErrorBoundary fallback="There was an error while processing">
-        <AudioProvider>
+      <AudioProvider>
+        <ErrorBoundary fallback="There was an error while processing">
+
           <Component {...pageProps} />
           {/* <Footer /> */}
           <AudioPlayer />
-        </AudioProvider>
-      </ErrorBoundary>
+
+        </ErrorBoundary>
+      </AudioProvider>
 
     </>
   );
